@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iruusu
-- 🌱 I’m currently learning python coding.
-- 💞️ I’m looking to collaborate on freelance front end development web design with HTML and CSS coding.
+- 🌱 I’m currently completing free code camp.
+- 💞️ I’m looking to collaborate on freelance front end development web design with HTML, CSS and JavaScript coding.
 - 📫 How to reach me: https://www.linkedin.com/in/emily-v-watts
 
 <!---
